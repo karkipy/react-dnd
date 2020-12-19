@@ -15,7 +15,6 @@
   "scripts": {
     "build": "tsc",
     "test": "echo test",
-    "demo": "ts-node  ./src/demo.ts",
     "postinstall": "yarn build",
     "publish": "yarn publish"
   },
