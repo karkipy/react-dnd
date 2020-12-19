@@ -7,7 +7,7 @@
   "author": "Aashish Karki <aashish.y2z@gmail.com>",
   "license": "MIT",
   "homepage": "https://karkipy.github.io/dnd",
-  "private": true,
+  "private": false,
   "peerDependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
