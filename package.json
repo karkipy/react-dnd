@@ -1,9 +1,9 @@
 {
-  "name": "@karkipy/dnd",
+  "name": "@karkipy/react-dnd",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "repository": "git@github.com:karkipy/dnd.git",
+  "repository": "git@github.com:karkipy/react-dnd.git",
   "author": "Aashish Karki <aashish.y2z@gmail.com>",
   "license": "MIT",
   "homepage": "https://karkipy.github.io/dnd",
